@@ -1,4 +1,4 @@
-package com.bibliography.stephen-king;
+package com.bibliography.stephen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
