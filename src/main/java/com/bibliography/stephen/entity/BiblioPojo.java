@@ -36,11 +36,11 @@ public class BiblioPojo {
     }
 
     public int getYear() {
-        return year;
+        return bookYear;
     }
 
     public BiblioPojo setYear(int year) {
-        this.year = year;
+        this.bookYear = year;
         return this;
     }
 
@@ -53,4 +53,3 @@ public class BiblioPojo {
         return this;
     }
 }
-

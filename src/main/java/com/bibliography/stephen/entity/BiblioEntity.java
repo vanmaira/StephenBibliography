@@ -10,7 +10,6 @@ import javax.persistence.Table;
 @Table(name = "stephen_bibliography")
 public class BiblioEntity {
 
-
     private String typeName;
 
     @Id
@@ -54,11 +53,11 @@ public class BiblioEntity {
     }
 
     public int getYear() {
-        return year;
+        return bookYear;
     }
 
     public BiblioEntity setYear(int year) {
-        this.year = year;
+        this.bookYear = year;
         return this;
     }
 
