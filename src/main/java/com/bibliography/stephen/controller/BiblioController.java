@@ -1,4 +1,4 @@
 package com.bibliography.stephen.controller;
 
-public class biblioController {
+public class BiblioController {
 }
